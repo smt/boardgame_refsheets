@@ -1,17 +1,18 @@
-How to use this reference sheet
-===============================
+How to use these reference sheets
+=================================
 
 Assumption
 ----------
 
-- This reference sheet assumes that you have read the complete rules of the
+- These reference sheets assume that you have read the complete rules of the
   game and are familiar with how the game works
 
-This reference sheet is useful when
------------------------------------
+These reference sheets are useful when
+--------------------------------------
 
 - You have not played the game for some time and do not remember all the rules
   details (e.g. starting money, scoring methods)
+
 - You are teaching the game and want to give a simple and structured overview
 
 The concise reference sheets are submitted to their respective game entries at
