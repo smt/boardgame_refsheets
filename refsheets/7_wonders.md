@@ -5,11 +5,8 @@ Start:
 ------
 
 * Remove cards depending on #players.
-
 * Use only (#players + 2) Guilds. Random and secret.
-
 * Randomly assign wonders and side.  (Side A if learning)
-
 * $3
 
 Structure:
@@ -21,32 +18,20 @@ Turn:
 -----
 
 1. Choose 1 card.
-
 2. Action (simultaneous), pick 1 of these:
-
-    a. Build card
-
+    1. Build card
         * Top left is cost. If own prerequisite building, build for free.
-
         * Lower right is free building after this one.
-
         * To build, must either produce required resources or buy from
         neighbours.
-
         * If buying, $2 per resource. May not use money earned in current
         round. Neighbour may not refuse, also does not lose resource.
         Resources only bought for 1 turn.
-
         * No duplicates
-
         * Brown & grey cards tucked under upper left of board.
-
-    b. Build 1 stage of wonder
-
+    2. Build 1 stage of wonder
         * Pay cost. Tuck card face-down under current stage.
-
-    c. Discard card for $3
-
+    3. Discard card for $3
 3. Pass cards. Clockwise in Ages I & III, Anticlockwise in Age II.
 
 End of Age:
@@ -59,12 +44,9 @@ End:
 ----
 
 * 1VP per $3
-
 * VP's for wonders and buildings
-
 * Science symbols: for each type – (#symbols) 2 VP, for each set of 3 different
 symbols – 7VP.
-
 * Tiebreaker is money.
 
 Others:
@@ -87,20 +69,15 @@ Start:
 ------
 
 * Set up like a 3P game.
-
 * Free City has a deck of 7 cards.
-
 * One player holds the Free City card.
 
 Turn: (for player holding Free City card)
 -----------------------------------------
 
 1. Draw 1 card from Free City deck
-
 2. Pick 1 card for own city.
-
 3. Pick 1 card for Free City.
-
 4. At the end of Turn, players swap hands, so that the other player will hold
 the Free City card.
 
